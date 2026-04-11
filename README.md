@@ -1,1 +1,1 @@
-# project-1-fantasy-football
+# Project 1 Fantasy Football
