@@ -22,9 +22,8 @@ This repository is organized to guide you through the analytical process:
 4. **Setup**: Ensure you have Python installed along with necessary libraries (Pandas, Matplotlib/Seaborn).
 
 ## 💡 Tips for Success
-* [cite_start]**Focus on Fundamentals**: A clear, well-commented cleaning script is more valuable than a complex, black-box model[cite: 32].
-* [cite_start]**Think Like a Manager**: Your final "Cheat Sheet" should be simple enough for a non-technical person to use during a live draft[cite: 31].
-* [cite_start]**Be Bold**: Use the visualizations to tell a story—don't just show numbers; show the "why" behind a player's value[cite: 30].
+* **Focus on Fundamentals**: A clear, well-commented cleaning script is more valuable than a complex, black-box model.
+* **Think Like a Manager**: Your final "Cheat Sheet" should be simple enough for a non-technical person to use during a live draft.
+* **Be Bold**: Use the visualizations to tell a story—don't just show numbers; show the "why" behind a player's value.
 
 ---
-[cite_start]*Created as part of CS3 for the School of Data Science at the University of Virginia[cite: 2, 11].*
