@@ -16,7 +16,7 @@ This repository is organized to guide you through the analytical process:
 * **`docs/`**: Supporting materials, including an explainer blog post and technical reference articles to provide context on fantasy scoring and metrics.
 
 ## 🚀 Getting Started
-1. **Read the Hook Document**: Understand the scenario and the problem you are solving for your "client."
+1. **Read the Hook Document**: Understand the scenario and the problem you are solving for your client.
 2. **Review the Rubric**: Familiarize yourself with the three required deliverables: the Data Cleaning Script, the Exploratory Analysis, and the Final "Cheat Sheet."
 3. **Explore the Data**: Head into the `data/` folder to view the NFL player statistics used for this study.
 4. **Setup**: Ensure you have Python installed along with necessary libraries (Pandas, Matplotlib/Seaborn).
