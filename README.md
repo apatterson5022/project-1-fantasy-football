@@ -4,7 +4,7 @@
 ## 🏈 Overview
 Welcome to the Fantasy Football Draft Optimization case study. In this project, you will step into the role of a Lead Data Consultant for a sports analytics firm. Your mission is to move beyond expert intuition and use raw NFL performance data to build a data-driven draft strategy.
 
-[cite_start]This repository contains all the materials necessary to synthesize historical player statistics and translate them into actionable draft insights[cite: 26].
+This repository contains all the materials necessary to synthesize historical player statistics and translate them into actionable draft insights.
 
 ## 📂 Repository Structure
 This repository is organized to guide you through the analytical process:
