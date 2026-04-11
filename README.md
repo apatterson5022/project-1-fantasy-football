@@ -9,11 +9,11 @@ Welcome to the Fantasy Football Draft Optimization case study. In this project, 
 ## 📂 Repository Structure
 This repository is organized to guide you through the analytical process:
 
-* **`hook-document.pdf`**: Start here. [cite_start]This document sets the scenario and defines your mission[cite: 24, 36].
-* [cite_start]**`rubric.pdf`**: This contains the specific technical requirements and grading criteria for your deliverables[cite: 25, 36].
+* **`hook-document.pdf`**: Start here. This document sets the scenario and defines your mission.
+* [cite_start]**`rubric.pdf`**: This contains the specific technical requirements and grading criteria for your deliverables.
 * [cite_start]**`data/`**: Contains the raw and processed datasets required for the analysis.
-* [cite_start]**`notebooks/`**: Starter code and example analysis to help you begin your data cleaning and EDA[cite: 26].
-* [cite_start]**`docs/`**: Supporting materials, including an explainer blog post and technical reference articles to provide context on fantasy scoring and metrics[cite: 36].
+* [cite_start]**`notebooks/`**: Starter code and example analysis to help you begin your data cleaning and EDA.
+* [cite_start]**`docs/`**: Supporting materials, including an explainer blog post and technical reference articles to provide context on fantasy scoring and metrics.
 
 ## 🚀 Getting Started
 1. **Read the Hook Document**: Understand the scenario and the problem you are solving for your "client."
