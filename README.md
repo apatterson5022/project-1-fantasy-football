@@ -13,7 +13,7 @@ This repository is organized to guide you through the analytical process:
 * **`rubric.pdf`**: This contains the specific technical requirements and grading criteria for your deliverables.
 * **`data/`**: Contains the raw and processed datasets required for the analysis.
 * **`notebooks/`**: Starter code and example analysis to help you begin your data cleaning and EDA.
-* **`docs/`**: Supporting materials, including an explainer blog post and technical reference articles to provide context on fantasy scoring and metrics.
+* **`references/`**: Supporting materials, including an explainer blog post and technical reference articles to provide context on fantasy scoring and metrics.
 
 ## 🚀 Getting Started
 1. **Read the Hook Document**: Understand the scenario and the problem you are solving for your client.
